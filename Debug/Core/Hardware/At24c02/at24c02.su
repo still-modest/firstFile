@@ -1,0 +1,5 @@
+at24c02.c:9:6:at24c02_write_one_byte	16	static
+at24c02.c:32:9:at24c02_read_one_byte	24	static
+at24c02.c:62:6:at24c02_write	16	static
+at24c02.c:72:6:at24c02_read	24	static
+at24c02.c:81:9:at24c02_check	16	static

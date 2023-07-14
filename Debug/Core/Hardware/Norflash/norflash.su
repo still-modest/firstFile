@@ -1,0 +1,4 @@
+norflash.c:7:6:norflash_Read	40	static
+norflash.c:26:9:norflash_Wait_Busy	16	static
+norflash.c:36:6:norflash_erase_sector	16	static
+norflash.c:60:6:norflash_Write_Page	32	static

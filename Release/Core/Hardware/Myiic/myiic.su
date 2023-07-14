@@ -1,0 +1,11 @@
+myiic.c:6:6:delay_us	0	static,ignoring_inline_asm
+myiic.c:17:6:SDA_IN	32	static
+myiic.c:26:6:SDA_OUT	32	static
+myiic.c:36:6:IIC_Init	8	static
+myiic.c:43:6:IIC_Start	8	static
+myiic.c:57:6:IIC_Stop	8	static
+myiic.c:73:9:IIC_Wait_Ack	16	static
+myiic.c:93:6:IIC_Ack	8	static
+myiic.c:107:6:IIC_NAck	8	static
+myiic.c:121:6:IIC_Send_Byte	16	static
+myiic.c:142:9:IIC_Read_Byte	24	static

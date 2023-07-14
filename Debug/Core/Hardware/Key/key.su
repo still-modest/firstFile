@@ -1,0 +1,3 @@
+key.c:15:9:KEY_scan	16	static
+key.c:31:6:USR_EXTI0_Callback	8	static
+key.c:43:6:USR_EXTI4_Callback	8	static
